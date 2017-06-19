@@ -1,0 +1,28 @@
+node_modules
+.sass-cache
+pages
+img
+*.html
+
+## Removeing generated style from git ##
+css/*.css
+css/*.css.map
+/wordpress/wp-content/themes/EnterpriseKenya/css/style.min.css
+
+### WordPress ###
+wordpress/wp-admin
+wordpress/wp-includes
+wordpress/.htaccess
+wordpress/*txt
+wordpress/readme.html
+wordpress/*.php
+wordpress/wp-content/languages/
+wordpress/wp-content/plugins
+wordpress/wp-content/upgrade
+wordpress/wp-content/uploads
+wordpress/wp-content/themes/twentysixteen/*
+wordpress/wp-content/themes/twentyfourteen/*
+wordpress/wp-content/themes/twentyfifteen/*
+wordpress/wp-content/themes/EnterpriseKenya/css/
+/.idea
+

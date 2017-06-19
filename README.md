@@ -1,1 +1,2 @@
-# Enterprise-Kenya
+# enterprise-kenya
+Enterprise Kenya project
